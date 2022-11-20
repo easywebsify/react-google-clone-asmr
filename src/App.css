@@ -1,0 +1,104 @@
+body {
+  background-color: #222;
+}
+.nav-bar {
+  position: fixed;
+  right: 40px;
+  top: 0px;
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+}
+
+ul {
+  list-style-type: none;
+  color: white;
+}
+li {
+  padding: 0px 10px;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-bar img {
+  width: 30px;
+  filter: invert(100%);
+}
+
+.main {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+}
+
+.main-logo {
+  display: flex;
+  margin: auto;
+  width: 300px;
+}
+
+.search form {
+  position: 10px;
+  width: 32em;
+  position: relative;
+  margin-top: 20px;
+}
+#txt-search {
+  width: 32em;
+  border-radius: 50px;
+  height: 40px;
+  border: none;
+  outline: none;
+  padding-left: 35px;
+  font-size: 15px;
+}
+
+.img-search {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 13px;
+  width: 15px;
+}
+
+.img-mic {
+  position: absolute;
+  width: 28px;
+  right: 1px;
+  top: 10px;
+}
+
+#most-visited {
+  display: flex;
+  width: 30em;
+  margin: auto;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.container-icon {
+  width: 6em;
+  display: flex;
+  margin-top: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.container-icon .icon {
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  border: 5px solid white;
+  background-color: white;
+}
+
+.container-icon .name {
+  font-size: 13px;
+}

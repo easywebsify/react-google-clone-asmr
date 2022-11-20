@@ -1,0 +1,52 @@
+[
+    {
+        "icon": "https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png",
+        "name": "YouTube",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "icon": "https://cdn-icons-png.flaticon.com/512/174/174869.png",
+        "name": "Skype",
+        "url": "https://www.skype.com/en/"
+    },
+    {
+        "icon": "https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/"
+    },
+    {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nPqrKJWTpkRkArmTZjfe-RcxP7_AH4SgU_O2wakryryImZ7R6Dv6kGVD8zrbFpx-pXk&usqp=CAU",
+        "name": "Gmail",
+        "url": "https://mail.google.com/mail/u/0/"
+    },
+    {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/"
+    },
+    {
+        "icon": "https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png",
+        "name": "Twitter",
+        "url": "https://twitter.com/"
+    },
+    {
+        "icon": "https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png",
+        "name": "Udemy",
+        "url": "https://www.udemy.com/"
+    },
+    {
+        "icon": "https://play-lh.googleusercontent.com/cWG9-bk2_zLdKsN9vsYEdbCReVfzgXU6FeHUmLI8a24FoZ05TpOLYXInCQ278FTwCw",
+        "name": "Blogger",
+        "url": "https://meet.google.com/?hs=197&pli=1&authuser=0"
+    },
+    {
+        "icon": "https://cdn.iconscout.com/icon/free/png-128/google-meet-4062822-3357708.png",
+        "name": "Meet",
+        "url": "https://www.blogger.com/"
+    },
+    {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Earth_icon.svg/800px-Google_Earth_icon.svg.png",
+        "name": "Earth",
+        "url": "https://earth.google.com/web/"
+    }
+]
